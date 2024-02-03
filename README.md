@@ -31,6 +31,7 @@
   <img width="12" />
 </div>
 
+
 ###
 
 <div align="center">
@@ -45,6 +46,7 @@
 
 <br clear="both">
 
+![Snake animation](https://github.com/Blayneraptor/Blayneraptor/blob/output/github-contribution-grid-snake.svg)
 
 
 
