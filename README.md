@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on Army 
  
- 🌱 I’m currently learning **Back-End, Front-End and BBDD **
+ 🌱 I’m currently learning **Back-End**, **Front-End** and **BBDD** **
 
 <!--💬 Ask me about **Java, Python, SQL... or anything-->
 
