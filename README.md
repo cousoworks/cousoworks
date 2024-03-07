@@ -66,7 +66,7 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/Blayneraptor/Blayneraptor/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/Blayneraptor/Blayneraptor/blob/output/github-contribution-grid-snake2.svg)
 
 
 
