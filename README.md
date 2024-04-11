@@ -74,7 +74,9 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blayneraptor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Blayneraptor&icon=2&color=11)](https://visitcount.itsvg.in)
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Blayneraptor&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
