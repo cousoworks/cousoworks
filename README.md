@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Back-End**, **Front-End** and **BBDD** in FP DAM.
 
-<!--💬 Ask me about **Java, Python, SQL... or anything-->
+<!--💬 Ask me about **Java,Python, SQL... or anything-->
 
 ⚡I am also a fan of **anime**, **piano** and **video games**.
  
