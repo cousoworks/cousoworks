@@ -16,7 +16,7 @@
 
 <!--💬 Ask me about **Java, Python, SQL... or anything-->
 
-⚡I am also a fan of **anime**, **piano** and **video games**.
+⚡I am also a fan of **anime**,  **piano** and **video games**.
  
   💬 How to reach me cousoworks@gmail.com
 
