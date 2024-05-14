@@ -18,7 +18,7 @@
 
 ⚡I am also a fan of **anime**,  **piano** and **video games**.
  
-  💬 How to reach me cousoworks@gmail.com
+  💬 How to reach me cousoworks@gmail.com.
 
   <br/>
 
