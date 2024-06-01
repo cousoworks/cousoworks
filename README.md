@@ -13,13 +13,13 @@
  
  🔭 I’m currently working on Army, Guardia Real.
  
- 🌱 I’m currently learning **Back-End**,  **Front-End** and **BBDD** in FP DAM
+ 🌱 I’m currently learning **Back-End**,  **Front-End** and **BBDD** in FP DAM.
 
 <!--💬 Ask me about **Java, Python, SQL... or anything-->
 
 ⚡I am also a fan of **anime**,  **piano** and **video games**
  
-  💬 How to reach me cousoworks@gmail.com
+  💬 How to reach me cousoworks@gmail.com.
 
   <br/>
 
