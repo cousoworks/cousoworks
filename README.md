@@ -1,25 +1,25 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jose+Couso;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+todos!+👋;+Soy+Jose+Couso;" />
 </h1>
 
-<h3 align="center">A passionate future Full Stack Developer from Madrid, Spain</h3>
+<h3 align="center">Un apasionado Full Stack Developer de Madrid, España</h3>
 
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on Army, Guardia Real.
+ 🔭 Actualmente estoy trabajando en el ejército, Guardia Real.
  
- 🌱 I’m currently learning **Back-End**,  **Front-End** and **BBDD** in FP DAM.
+ 🌱 Estoy realizando un grado superior de DAM con conocimientos sobre **Back-End**,  **Front-End** y **BBDD**.
 
-<!--💬 Ask me about **Java, Python, SQL... or anything-->
+<!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
 
-⚡I am also a fan of **anime**,  **piano** and **video games**
+⚡También soy un gran fan del **anime**,  **piano** y **video juegos**
  
-  💬 How to reach me cousoworks@gmail.com.
+  💬 Puedes contactarme en cousoworks@gmail.com.
 
   <br/>
 
