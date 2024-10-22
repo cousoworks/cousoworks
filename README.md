@@ -17,7 +17,7 @@
 
 <!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
 
-⚡También soy un gran fan del **anime**,  **piano** y **video juegos**
+⚡También soy un gran fan del **anime**,  **piano** ,  **video juegos** y **gimnasio**
  
   💬 Puedes contactarme en cousoworks@gmail.com.
 
