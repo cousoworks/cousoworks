@@ -19,7 +19,7 @@
 
 ⚡También soy un gran fan del **anime**,  **piano** ,  **video juegos** y **gimnasio**
  
-  💬 Puedes contactarme en cousoworks@gmail.com.
+  💬 Puedes contactarme en cousoworks@gmail.com
 
   <br/>
 
