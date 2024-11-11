@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en el ejército, Guardia Real.
+ 🔭 Actualmente estoy trabajando la Guardia Real, FAS.
  
  🌱 Estoy realizando un grado superior de DAM con conocimientos sobre **Back-End**,  **Front-End** y **BBDD**.
 
