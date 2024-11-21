@@ -1,7 +1,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+todos!+👋;+Soy+Jose+Couso;" />
+    <a href="https://www.linkedin.com/in/jose-couso-perez" target="_blank" style="text-decoration: none;">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+todos!+👋;+Soy+Jose+Couso;" />
+    </a>
 </h1>
 
 <h3 align="center">Full Stack Developer,Madrid, España</h3>
@@ -31,7 +33,7 @@
   <a href="mailto:cousoworks@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/jose-pascual-couso-perez">
+  <a href="https://www.linkedin.com/in/jose-couso-perez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://blayneraptor.github.io/Portfolio_Piano/">
