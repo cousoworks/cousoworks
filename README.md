@@ -13,7 +13,7 @@
  
  🔭 Actualmente estoy trabajando la Guardia Real, FAS.
  
- 🌱 Estoy realizando un grado superior de DAM con conocimientos sobre **Back-End**,  **Front-End** y **BBDD**.
+ 🌱 Estoy terminando un grado superior de DAM con conocimientos sobre **Back-End**,  **Front-End** y **BBDD**.
 
 <!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
 
