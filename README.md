@@ -23,7 +23,7 @@
  
   💬 Puedes contactarme en cousoworks@gmail.com
 
- 🖥️💼 **Mi CV está disponible para descargar aquí:** [Descargar CV](poner uirl)
+ 🖥️💼 **Mi CV está disponible para descargar aquí:** [Descargar CV](poner url)
 
 
   <br/>
