@@ -40,6 +40,9 @@
   <a href="https://blayneraptor.github.io/Portfolio_Piano/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+   <a href="https://www.credly.com/users/jose-pascual-couso-perez" target="_blank">
+    <img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
