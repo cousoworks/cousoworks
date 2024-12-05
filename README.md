@@ -51,7 +51,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,devto,discord,gitlab,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,devto,discord,gitlab,notion,androidstudio,windows,linux" /><br>
 </div>
 
 <br/>
