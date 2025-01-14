@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/jose-couso-perez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blayneraptor.github.io/Portfolio_Piano/">
+  <a href="https://blayneraptor.github.io/Proyectos_dev/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
    <a href="https://www.credly.com/users/jose-pascual-couso-perez" target="_blank">
