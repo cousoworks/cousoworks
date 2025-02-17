@@ -6,7 +6,7 @@
     </a>
 </h1>
 
-<h3 align="center">Full Stack Developer,Madrid, España</h3>
+<h3 align="center">Desarrollador Front-End,Madrid, España</h3>
 
 
 <br/>
@@ -15,11 +15,11 @@
  
  🔭 Actualmente estoy trabajando la Guardia Real, FAS.
  
- 🌱 Estoy terminando un grado superior de DAM con conocimientos sobre **Back-End**,  **Front-End** y **BBDD**.
+ 🌱 Estoy terminando un grado superior de DAM con conocimientos sobre **Front-End** y **Back-End**, 
 
 <!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
 
-⚡También soy un gran fan del **anime**,  **piano** ,  **video-juegos** y **deportes**
+⚡También soy un gran fan del **anime**,  **piano** ,  **video-juegos** y **padel-gym**
  
   💬 Puedes contactarme en cousoworks@gmail.com
 
