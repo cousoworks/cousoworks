@@ -15,7 +15,7 @@
  
  🔭 Actualmente estoy trabajando la Guardia Real, FAS.
  
- 🌱 Puedes ver aquí mi <a href="https://blayneraptor.github.io/Proyectos_dev/" target="_blank">Portfolio de Proyectos</a>
+ 🌱 Puedes ver aquí mi <a href="https://www.cousoworks.es/" target="_blank">Portfolio de Proyectos</a>
  con **Front-End** y **Back-End**, 
 
 <!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/jose-couso-perez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blayneraptor.github.io/Proyectos_dev/">
+  <a href="https://www.cousoworks.es/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
    <a href="https://www.credly.com/users/jose-pascual-couso-perez" target="_blank">
