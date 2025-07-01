@@ -6,22 +6,25 @@
     </a>
 </h1>
 
-<h3 align="center">Desarrollador Front-End,Madrid, España</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cousoworks/blayne-piano-covers/refs/heads/master/src/assets/logoblayne.png" alt="Logo de Blayne" width="200"/>
+</p>
+
+<h4 align="center">Desarrollador Front-End,Madrid, España</h3>
 
 
-<br/>
 
 <div align="center">
  
  
- 🌱 Puedes ver aquí mi <a href="https://www.cousoworks.es/" target="_blank">Portfolio de Proyectos</a>
+ 🌱 Puedes ver aquí mi <a href="https://www.cousoworks.es/" target="_blank">**Portfolio de Proyectos**</a>
  con **Front-End** y **Back-End**, 
 
 <!--💬 Pregúntame sobre: **Java, Python, SQL... o cualquier cosa-->
 
 ⚡También soy un gran fan del **anime**,  **piano** ,  **video-juegos** y **padel-gym**
  
-  💬 Puedes contactarme en cousoworks@gmail.com
+  💬 Puedes contactarme en **cousoworks@gmail.com**
 
 
   <br/>
