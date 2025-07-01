@@ -13,7 +13,6 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando la Guardia Real, FAS.
  
  🌱 Puedes ver aquí mi <a href="https://www.cousoworks.es/" target="_blank">Portfolio de Proyectos</a>
  con **Front-End** y **Back-End**, 
