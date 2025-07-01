@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/cousoworks/blayne-piano-covers/refs/heads/master/src/assets/logoblayne.png" alt="Logo de Blayne" width="120"/>
 </p>
 
-<h4 align="center">Desarrollador Front-End,Madrid, España</h3>
+<h3 align="center">Desarrollador Front-End,Madrid, España</h3>
 
 
 
