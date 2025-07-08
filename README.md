@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cousoworks/blayne-piano-covers/refs/heads/master/src/assets/logoblayne.png" alt="Logo de Blayne" width="120"/>
+  <img src="https://raw.githubusercontent.com/cousoworks/piano-covers/refs/heads/master/src/assets/logocouso.png" alt="Logo de CousoWorks" width="120"/>
 </p>
 
 <h3 align="center">Desarrollador Front-End,Madrid, España</h3>
