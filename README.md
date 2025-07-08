@@ -65,9 +65,9 @@
   <br>
     
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blayneraptor/Blayneraptor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: ligth)" srcset="https://raw.githubusercontent.com/Blayneraptor/Blayneraptor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Blayneraptor/Blayneraptor/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cousoworks/cousoworks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: ligth)" srcset="https://raw.githubusercontent.com/cousoworks/cousoworks/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cousoworks/cousoworks/output/github-contribution-grid-snake.svg">
 </picture>
   
   <br/><br/><br/>
@@ -82,14 +82,14 @@
  <div align="center">
   
   
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blayneraptor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cousoworks&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
 <br>
 
 
-[![](https://visitcount.itsvg.in/api?id=Blayneraptor&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cousoworks&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
